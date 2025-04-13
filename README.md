@@ -1,6 +1,6 @@
 # Vivero Irupé - Frontend 🌱
 
-¡Bienvenido al repositorio público de **Vivero Irupé**! 🌿 Este proyecto es la parte frontend de un sitio web para un vivero online ubicado en Embalse, Córdoba. Aquí mostramos cómo se desarrolló este proyecto con tecnologías modernas para brindar una experiencia optimizada y visualmente atractiva.  
+¡Bienvenido al repositorio público de **Vivero Irupé**! 🌿 Este proyecto es la parte frontend de un sitio web para un vivero online ubicado en Embalse, Córdoba. Este repo solo muestra cómo se desarrolló este proyecto.  
 
 https://viveroirupe.com/
 
